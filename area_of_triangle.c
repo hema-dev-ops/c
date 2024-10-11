@@ -13,6 +13,7 @@ int main() {
 
     printf("The area of the triangle is: %.2f\n", area);
 
-    return 0;
+    
     printf("Press Any Key to Continue\n");
+    return 0;
 }
