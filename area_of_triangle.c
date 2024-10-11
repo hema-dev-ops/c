@@ -12,6 +12,7 @@ int main() {
     area = (base * height) / 2;
 
     printf("The area of the triangle is: %.2f\n", area);
-    sleep(5);
+
     return 0;
+    printf("Press Any Key to Continue\n");
 }
