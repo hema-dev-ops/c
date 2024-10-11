@@ -13,7 +13,9 @@ int main() {
 
     printf("The area of the triangle is: %.2f\n", area);
 
-    
-    printf("Press Any Key to Continue\n");
+    printf("Press any key to exit...\n");
+    getchar(); // To consume the newline character left by previous scanf
+    getchar(); // Wait for the user to press any key
+
     return 0;
 }
