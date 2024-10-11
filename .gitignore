@@ -3,3 +3,9 @@
 
 # Ignore build directories
 build/
+
+
+
+# Ignore root dir
+
+*.exe
